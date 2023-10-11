@@ -1,5 +1,7 @@
 # code-reading-club
-based on workshop created by Felienne Hermans
+Based on workshop created by Felienne Hermans
+
+More information on [Felienne blog (thanks a lot for this work!)](https://www.felienne.com/archives/6472)
 
 ## some challenging sample of code
 
